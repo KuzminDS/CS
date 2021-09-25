@@ -1,0 +1,7 @@
+C:\Users\Дмитрий\Desktop\КБ\SSU.CS.Task1\SSU.CS.Task1\bin\Debug\SSU.CS.Task1.exe.config
+C:\Users\Дмитрий\Desktop\КБ\SSU.CS.Task1\SSU.CS.Task1\bin\Debug\SSU.CS.Task1.exe
+C:\Users\Дмитрий\Desktop\КБ\SSU.CS.Task1\SSU.CS.Task1\bin\Debug\SSU.CS.Task1.pdb
+C:\Users\Дмитрий\Desktop\КБ\SSU.CS.Task1\SSU.CS.Task1\obj\Debug\SSU.CS.Task1.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\КБ\SSU.CS.Task1\SSU.CS.Task1\obj\Debug\SSU.CS.Task1.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\КБ\SSU.CS.Task1\SSU.CS.Task1\obj\Debug\SSU.CS.Task1.exe
+C:\Users\Дмитрий\Desktop\КБ\SSU.CS.Task1\SSU.CS.Task1\obj\Debug\SSU.CS.Task1.pdb
